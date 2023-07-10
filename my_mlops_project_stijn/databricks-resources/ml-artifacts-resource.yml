@@ -33,7 +33,7 @@ environments:
 # Allow users to read the model and experiment
 permissions: &permissions
   permissions:
-    - level: CAN_READ
+    - level: CAN_MANAGE
       group_name: users
 
 # Defines model and experiments
