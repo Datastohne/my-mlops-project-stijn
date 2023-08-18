@@ -100,5 +100,3 @@ To do this, ask your ops team to follow the [MLOps Setup Guide](mlops-setup.md) 
 production training/inference pipelines.
 
 [(back to main README)](../README.md)
-
-test
